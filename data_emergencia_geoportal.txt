@@ -1,0 +1,294 @@
+{
+  "homeCamera": {
+    "north": -3.055622,
+    "east": -76.50271,
+    "south": -4.055622,
+    "west": -80.20271
+  },
+  "up": {
+            "z": 100.8942580996654569
+  },
+
+
+
+
+
+
+
+
+  "catalog": 
+        
+  [
+            
+  
+{
+   
+  "type": "group",
+  "name": "Centro de Investigaciones Territoriales",
+  "description":"Centro de Investigaciones Territoriales (CIT) surge como respuesta al creciente interes por analizar y fortalecer los procesos de desarrollo territorial en sus expresiones urbanas, rurales, regionales y locales. Aspira a cubrir la necesidad de investigaciones en temas de ordenamiento, planificacion y gestion territorial para contribuir en los espacios de debate y reflexion, con el objetivo de asimilar y generar nuevas teorias y herramientas metodologicas para el desarrollo, aportando una mirada critica sobre las bases cientificas del desarrollo territorial e incidiendo en la construccion de nuevas propuestas y formas de accion local y regional.",
+  
+  "members": [
+
+   
+{
+      "type": "group",
+      "name": "Plan de ordenamiento La argelia",
+      "members": [
+
+        
+
+ {
+    "type": "geojson",
+    "name": "Limite Unl",
+    "url": "test/limite_unl.geojson"
+  },
+
+  {
+    "type": "geojson",
+    "name": "Cobertura detallada",
+    "url": "test/cobertura_detallada.geojson"
+  },
+  {
+    "type": "geojson",
+    "name": "Uso potencial",
+    "url": "test/uso_potencial.geojson"
+  },
+  {
+    "type": "geojson",
+    "name": "Pendiente",
+    "url": "test/pendiente.geojson"
+  },
+  {
+    "type": "geojson",
+    "name": "Rios y quebradas",
+    "url": "test/rios_unl.geojson"
+  },
+  
+  {
+    "type": "geojson",
+    "name": "Textura",
+    "url": "test/textura.geojson"
+  },
+
+  {
+    "type": "geojson",
+    "name": "Fertilidad",
+    "url": "test/fertilidad.geojson"
+  },
+
+  {
+    "type": "geojson",
+    "name": "Cuencas hidrograficas",
+    "url": "test/cuencas_hidricas.geojson"
+  },
+  {
+    "type": "geojson",
+    "name": "Distribucion agua",
+    "url": "test/distribucion_agua2.geojson"
+  
+  },
+  {
+    "type": "geojson",
+    "name": "Unidades de manejo",
+    "url": "test/unidades_manejo.geojson"
+  },
+
+ {
+    "type": "geojson",
+    "name": "Muestreo aguas",
+    "url": "test/muestreo_agua2.geojson"
+  },
+
+{
+    "type": "geojson",
+    "name": "Vias",
+    "url": "test/vias.geojson"
+  },
+
+   
+
+      
+
+
+         ]
+    },
+
+{
+      "type": "group",
+      "name": "Probabilidad de incedios forestal provincia de Loja",
+      "members": [
+
+{
+     "type": "geojson",
+    "name": "Visor incendios forestales",
+    "url": "test/prov_loja.geojson",
+    "description":"https://proyectoincendiosutpl.users.earthengine.app/view/proyecto-de-vinculacin-utpl-incendios-forestales",
+
+                      },
+
+{
+     "type": "geojson",
+    "name": "incendios_ecuador",
+    "url": "test/incendios_ecuador.geojson",
+    "description":"Base de datos SGNR",
+
+                      },
+
+
+         ]
+ 
+    },
+
+
+
+{
+      "type": "group",
+      "name": "Analisis subcuenca alta del rio Gualel-Guayabal, sector Fierro Urco",
+      "members": [
+
+{
+    "type": "geojson",
+    "name": "Limite Cuenca Guayabal",
+    "url": "test/cuenca_guayabal.geojson"
+  },
+{
+    "type": "geojson",
+    "name": "Chaquircuna calida de agua",
+    "url": "test/chaquircuña_calidad_agua.geojson"
+  },
+
+{
+    "type": "geojson",
+    "name": "El Ari calida de agua",
+    "url": "test/el_ari_calidad_agua.geojson"
+  },
+
+
+{
+    "type": "geojson",
+    "name": "Gualel calida de agua",
+    "url": "test/gualel_calidad_agua.geojson"
+  },
+
+      ]
+    },
+
+
+
+
+
+{
+      "type": "group",
+      "name": "Cartografia tematica",
+      "members": [
+
+
+{
+    "type": "geojson",
+    "name": "Vias Calvas",
+    "url": "test/calvas_vias.geojson"
+  },
+
+{
+    "type": "geojson",
+    "name": "Vias Sozoranga",
+    "url": "test/vias_sozo.geojson"
+  },
+{
+    "type": "geojson",
+    "name": "Vias Espindola",
+    "url": "test/espindola_vias.geojson"
+  },
+{
+    "type": "geojson",
+    "name": "Estaciones meteorologicas CIT",
+    "url": "test/estaciones.geojson"
+  },
+
+{
+    "type": "geojson",
+    "name": "Centros de salud ciudad de Loja",
+    "url": "test/centos_salud3.geojson"
+  },
+
+ {
+    
+      "name": "Cartas topográficas WMS-IGM",
+      "type": "wms",
+      "url": "https://www.geoportaligm.gob.ec/regional/wms?service=wms&version=1.1.1&request=GetCapabilities",
+          }
+
+  ]
+    },
+
+
+
+  ]
+},
+
+
+{
+   
+  "type": "group",
+  "name": "Bomberos Loja",
+  "description":"Centro de Investigaciones Territoriales (CIT) surge como respuesta al creciente interes por analizar y fortalecer los procesos de desarrollo territorial en sus expresiones urbanas, rurales, regionales y locales. Aspira a cubrir la necesidad de investigaciones en temas de ordenamiento, planificacion y gestion territorial para contribuir en los espacios de debate y reflexion, con el objetivo de asimilar y generar nuevas teorias y herramientas metodologicas para el desarrollo, aportando una mirada critica sobre las bases cientificas del desarrollo territorial e incidiendo en la construccion de nuevas propuestas y formas de accion local y regional.",
+  
+  "members": [
+
+   
+{
+      "type": "group",
+      "name": "Areas incendiadas",
+      "members": [
+
+        
+
+ {
+    "type": "geojson",
+    "name": "Incendio forestal 8 septiembre-catamayo",
+    "url": "test/limite_unl.geojson"
+  },
+
+  {
+    "type": "geojson",
+    "name": "Incendio forestal 8 septiembre-vilcabamba",
+    "url": "test/cobertura_detallada.geojson"
+  },
+    
+  
+   
+
+      
+
+
+    
+
+  ]
+    },
+
+
+
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  ],
+  "viewerMode": "3dSmooth",
+  "baseMaps": {
+    "defaultBaseMapId": "basemap-positron",
+    "previewBaseMapId": "basemap-positron"
+  }
+}
+
